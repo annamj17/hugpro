@@ -1,0 +1,27 @@
+{
+  "name": "hugpro",
+  "version": "1.0.0",
+  "description": "A simple Express.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest"
+  },
+  "author": "Skúli Arnlaugsson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arnlaugsson/hugpro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arnlaugsson/hugpro/issues"
+  },
+  "homepage": "https://github.com/arnlaugsson/hugpro#readme"
+}
